@@ -15,4 +15,10 @@ func main() {
 
 	val1, val2 := 35.2, "Hello again ritvik"
 	println(val1, val2)
+
+	// truncation
+
+	accountNumber := 88.6
+	accountNumberInt := int(accountNumber)
+	println(accountNumberInt)
 }
