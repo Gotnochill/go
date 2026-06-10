@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 func main() {
+	printMinutes()
+	sprintfUse()
 
 	fmt.Println("Hi")
 	fmt.Println("ritvik")
@@ -21,4 +23,5 @@ func main() {
 	accountNumber := 88.6
 	accountNumberInt := int(accountNumber)
 	println(accountNumberInt)
+
 }
