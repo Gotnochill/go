@@ -1,8 +1,0 @@
-Number of hours=  5
-Minutes to go is =  25
-Hi
-ritvik
-Happy birthday ritvik
-The type is int
-35.2 Hello again ritvik
-88

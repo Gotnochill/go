@@ -8,7 +8,7 @@ func sprintfUse() {
 	const openRate = 30.55
 
 	msg := fmt.Sprintf(
-		"Hi %s , your open rate is %.2f percent",
+		"Hi %s , your open rate is %.5f percent",
 		name,
 		openRate,
 	)
